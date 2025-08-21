@@ -46,6 +46,9 @@ A full-stack **Ecommerce application** built with **Spring Boot**, **MySQL**, **
 ## 📸 Screenshots
 <img width="2151" height="1263" alt="Screenshot 2025-08-22 014004" src="https://github.com/user-attachments/assets/a831cb1c-ed4c-49a7-89f1-0dc847440047" />
 
+<img width="2157" height="1245" alt="Screenshot 2025-08-22 012938" src="https://github.com/user-attachments/assets/7df6da38-6979-47b8-bc83-77b9d6077afb" />
+
+<img width="2147" height="1279" alt="Screenshot 2025-08-22 013033" src="https://github.com/user-attachments/assets/fe8a9de9-3473-49a1-94d7-075e42f84fdc" />
 
 
 ## 👩‍💻 Author
