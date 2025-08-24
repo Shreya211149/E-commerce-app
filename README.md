@@ -1,4 +1,4 @@
-# 🛒 Shopify | Premium Ecommerce Web App
+# 🛒 Shopingo | Premium Ecommerce Web App
 
 A full-stack **Ecommerce application** built with **Spring Boot**, **MySQL**, **HTML/CSS/Bootstrap**, and **JavaScript**. Users can browse products, manage a cart, and place orders.  
 
